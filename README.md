@@ -1,4 +1,4 @@
-# LemonUI -- 一个基于Vue实现的 UI 组件
+# LemonUI -- 一个基于Vue实现的 UI 组件库
 
 ## 作者：Mongie Lee
 
